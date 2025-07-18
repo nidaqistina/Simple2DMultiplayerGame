@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\MyFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|c:\\users\\user\\myfirstproject\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|c:\\users\\user\\myfirstproject\\assets\\script\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|C:\\Users\\User\\MyFirstProject\\assets\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|C:\\Users\\User\\MyFirstProject\\assets\\script\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A912D3-66B9-DDF3-6203-61A74A7F619F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoveForward.cs",
+              "ToolTip": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Script\\MoveForward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:14:57.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:05:18.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:43:23.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Character.cs",
+              "ToolTip": "C:\\Users\\User\\MyFirstProject\\Assets\\Script\\Character.cs",
+              "RelativeToolTip": "Assets\\Script\\Character.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:44:31.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
